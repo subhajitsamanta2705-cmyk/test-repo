@@ -6,5 +6,6 @@ for(i=1; i<=5; i++){
 }
 console.log("for loop executed successfully!");
 console.log("Bug fixed");
-console.log("New feature added");
+console.log("Updated range of i");
+
 
